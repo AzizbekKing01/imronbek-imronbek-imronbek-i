@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Nosifer&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    font-family: "Nosifer", serif;
+}
+.container{
+    margin: 0 auto;
+    padding: 0 120px;
+}
+.header{
+    width: 1440px;
+    height: 1024px;
+    border: 2px solid red;
+    background-image: url(img\ 2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.nav{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav ul{
+    display: flex;
+    gap: 78px;
+}
+.nav ul li{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 27.84px;
+    color: yellow;
+}
+.nav ul li:hover{
+    color: white;
+}
+.PLAYERUNKNOWN’S{
+    text-align: center;
+    Width:692px;
+    height: 119px;
+    align-items: center;
+    top: 674;
+    left: 413px;
+    border-radius: 13px;
+    margin: 0 auto;
+    border: 13px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 674;
+
+    background: linear-gradient(90deg, rgba(245, 194, 44, 0.96) 0%, #64AA58 28%, #FAFF00 58.5%, #D92E23 100%);
+
+
+
+}
+.imronbek{
+    text-align: center;
+    color: #FAFF00;
+    width: 1200px;
+    height: 124px;
+    font-weight: 800;
+    font-size: 100px;
+    line-height: 178.48px;
+    align-items: center;
+    top: 826px;
+    left: 120px;
+}
+.ooo{
+    color: white;
+}
+.iji{
+    background-color: yellow;
+}
+.ggg{
+    
+    background-color: black;
+   
+}
+.hhh{
+    margin: 0 auto;
+    padding: 0 120px;
+}
+.ioi{
+    background-color: black;
+}
+.nal{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nal ul{
+    display: flex;
+    gap: 78px;
+}
+.nal ul li{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 27.84px;
+    color: white;
+    background-color: grey;
+    margin: 0 auto;
+}
+.fff{
+    background-color: grey;
+}
+.footer{
+    width: 1530px;
+    height: 1100px;
+    background-image: url(img\ 4.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+
+
+}
+.PC{
+    width: 235px;
+    height: 73px;
+    top: 500px;
+    left: 498px;
+    background-color: #F1A900;
+    color: black;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48.41px;
+    align-items: center;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0 auto;
+    padding-top: 475;
+    justify-content: space-between;
+
+}
+.CONSOLE{
+    width: 235px;
+    height: 73px;
+    top: 475px;
+    left: 453px;
+    background-color: #000000;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0 auto;
+    padding-top: 475;
+    justify-content: space-between;
+
+}
+.imronbe{
+    width: 794px;
+    height: 123px;
+    background-color: #F1A90054;
+    color: white;
+    border-radius: 30px;
+    text-align: center;
+    align-content: center;
+    margin: 44px auto;
+}
